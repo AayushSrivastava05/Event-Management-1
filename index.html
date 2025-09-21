@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Next-Gen Event Platform</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Next-Generation Event Platform</h1>
+
+  <!-- Participant Form -->
+  <section>
+    <h2>Join Event</h2>
+    <form id="participantForm">
+      <input type="text" id="name" placeholder="Your Name" required>
+      <input type="text" id="skills" placeholder="Skills (comma separated)" required>
+      <button type="submit">Join Event</button>
+    </form>
+    <ul id="participantList"></ul>
+  </section>
+
+  <!-- AI Team Matching -->
+  <section>
+    <h2>AI Team Matching</h2>
+    <button id="matchBtn">Run AI Match</button>
+    <ul id="teamList"></ul>
+  </section>
+
+  <!-- Rewards Simulation -->
+  <section>
+    <h2>Reward Simulation</h2>
+    <form id="rewardForm">
+      <input type="text" id="address" placeholder="Wallet Address" required>
+      <input type="number" id="amount" placeholder="Reward Amount" required>
+      <button type="submit">Give Reward</button>
+    </form>
+  </section>
+
+<script src="app.js"></script>
+</body>
+</html>

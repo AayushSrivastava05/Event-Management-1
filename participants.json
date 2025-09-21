@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Aayush Srivastava",
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "Html",
+      "Css"
+    ]
+  },
+  {
+    "name": "Akansha",
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "Html",
+      "Css"
+    ]
+  },
+  {
+    "name": "Shivangi Baranwal",
+    "skills": [
+      "C",
+      "C++",
+      "Java",
+      "Html",
+      "Css"
+    ]
+  },
+  {
+    "name": "Aparna Singh",
+    "skills": [
+      "NodesJS",
+      "ReachJS"
+    ]
+  },
+  {
+    "name": "Kushagra Pandey",
+    "skills": [
+      "NodesJS",
+      "ReachJS"
+    ]
+  },
+  {
+    "name": "Vansh Babbar",
+    "skills": [
+      "NodesJS"
+    ]
+  }
+]
